@@ -69,4 +69,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 🙏 Acknowledgements
 - [OpenWeatherMap](https://openweathermap.org/)
 - Inspiration from modern weather UI designs
-```
