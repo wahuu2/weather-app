@@ -4,8 +4,10 @@ A simple and responsive weather application built with **HTML, CSS, and JavaScri
 It fetches real‑time weather data from the [OpenWeatherMap API](https://openweathermap.org/api) and displays temperature, humidity, wind speed, and weather conditions with dynamic icons and background themes.
 
 ---
-##The URL I've deployed it on Vercel
+## The URL I've deployed it on Vercel
 https://weather-app-eight-rho-erhw6wlmfi.vercel.app/
+
+---
 
 ## ✨ Features
 - 🔍 **Search by city name** to get live weather data
