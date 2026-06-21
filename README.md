@@ -23,6 +23,7 @@ It fetches real‑time weather data from the [OpenWeatherMap API](https://openwe
 - **OpenWeatherMap API** – weather data source
 
 ---
+
 ## The URL I've deployed it on Vercel
 https://weather-app-eight-rho-erhw6wlmfi.vercel.app/
 
